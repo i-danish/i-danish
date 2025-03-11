@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @i-danish
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Web projects
 - 📫 How to reach me ... 
 - 😄 Pronouns: ...
